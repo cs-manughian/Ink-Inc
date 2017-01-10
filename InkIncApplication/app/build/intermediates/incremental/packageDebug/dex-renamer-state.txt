@@ -1,0 +1,7 @@
+#Tue Jan 10 11:24:48 PST 2017
+base.0=C\:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ca03011dae51649a39c44e211d2d8d9c0b20124
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a916c8557242348be88c8e395f1b3d5d6657fd62\\classes.dex
+base.1=C\:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a916c8557242348be88c8e395f1b3d5d6657fd62
+file.0=C\:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ca03011dae51649a39c44e211d2d8d9c0b20124\\classes.dex

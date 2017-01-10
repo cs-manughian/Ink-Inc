@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_camera.png",
+        "source": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_swap.png",
+        "source": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_swap.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Cosi\\Documents\\InkIncApplication\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
